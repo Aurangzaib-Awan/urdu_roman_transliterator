@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+pandas
+numpy
+scikit-learn
+tqdm
+streamlit
+sacrebleu
+rapidfuzz
